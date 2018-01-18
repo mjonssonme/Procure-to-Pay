@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_p2p_procurement_task">x_snc_p2p_procurement_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>P2PTask</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 00:35:10</sys_created_on>
+        <sys_id>ab443b1c403703007f4432308f24f057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>P2PTask</sys_name>
+        <sys_package display_value="Procure To Pay" source="x_snc_p2p">20f13bd8403703007f4432308f24f017</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procure To Pay">20f13bd8403703007f4432308f24f017</sys_scope>
+        <sys_update_name>sys_number_ab443b1c403703007f4432308f24f057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 00:35:10</sys_updated_on>
+    </sys_number>
+</record_update>

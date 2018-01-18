@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Request" max_length="40" name="x_snc_p2p_request" type="collection">
+        <element choice="1" label="Cost Range" max_length="40" name="cost_range" type="integer">
+            <choice>
+                <element label="&lt; $50k" sequence="0" value="49"/>
+                <element label="$50k - $150k" sequence="1" value="149"/>
+                <element label="&gt; $150k" sequence="2" value="150"/>
+            </choice>
+        </element>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+    </element>
+</database>

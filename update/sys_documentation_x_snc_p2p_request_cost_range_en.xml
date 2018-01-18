@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cost_range" label="Cost Range" language="en" table="x_snc_p2p_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cost_range</element>
+            <help/>
+            <hint/>
+            <label>Cost Range</label>
+            <language>en</language>
+            <name>x_snc_p2p_request</name>
+            <plural>Cost Ranges</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-18 00:29:44</sys_created_on>
+            <sys_id>37037fd8403703007f4432308f24f01e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cost Range</sys_name>
+            <sys_package display_value="Procure To Pay" source="x_snc_p2p">20f13bd8403703007f4432308f24f017</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Procure To Pay">20f13bd8403703007f4432308f24f017</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_p2p_request_cost_range_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-18 00:29:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
